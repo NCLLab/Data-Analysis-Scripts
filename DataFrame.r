@@ -1,3 +1,4 @@
+# Must get wd first
 list.files()
 all.files = list.files(pattern="^MMN23")
 MMN23 = data.frame()
